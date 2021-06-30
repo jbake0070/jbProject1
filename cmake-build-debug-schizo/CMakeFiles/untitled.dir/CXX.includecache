@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/tmp/tmp.2t0bXIkGoX/Automaton.h
+Token.h
+/tmp/tmp.2t0bXIkGoX/Token.h
+
+/tmp/tmp.2t0bXIkGoX/Lexer.h
+vector
+-
+Automaton.h
+/tmp/tmp.2t0bXIkGoX/Automaton.h
+Token.h
+/tmp/tmp.2t0bXIkGoX/Token.h
+
+/tmp/tmp.2t0bXIkGoX/Token.h
+string
+-
+
+/tmp/tmp.2t0bXIkGoX/main.cpp
+Lexer.h
+/tmp/tmp.2t0bXIkGoX/Lexer.h
+iostream
+-
+string
+-
+fstream
+-
+

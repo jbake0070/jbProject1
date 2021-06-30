@@ -1,0 +1,7 @@
+#|hi|#
+#normal comment
+'string'
+'string isn''t
+accross mutlpel lines'
+#|this shoould be undefined|#
+'now a string that dont end
